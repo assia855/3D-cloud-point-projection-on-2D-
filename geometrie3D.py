@@ -35,4 +35,4 @@ plt.imshow(first_cam2)
 sc=plt.scatter(point_cam0[:,0],point_cam0[:,1],point_cam0[:,2], c= 1/point_cam0[:,2],cmap='jet')
 plt.title('3D cloud point projection')
 plt.show()
-#Code achieved the goal of this TP in less than 30 lines 
+
