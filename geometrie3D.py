@@ -1,8 +1,5 @@
-##########################################################   TP 4: Géométrie Projective 3D - I   ##########################################################
-##########################################################      Master TSI - IMOVI, 2021-2022    ##########################################################
-##########################################################               Prof. M.M. Nawaf              ####################################################
-##########################################################               Student. Assia CHAHIDI             ###############################################
-#Objectif: In this TP, the main goal of it is practice all the knowledge obtain from projectif geometry course. 
+
+#Objectif: In this code, the main goal of it is practice all the knowledge obtain from projectif geometry course. 
 
 #Libraries
 import pykitti #library for working with the KITTI dataset
